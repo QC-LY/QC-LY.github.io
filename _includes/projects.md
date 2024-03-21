@@ -60,12 +60,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
     <div class="author">Jiazhou Zhou,  Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
-    <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
