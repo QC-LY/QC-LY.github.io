@@ -32,6 +32,32 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/omnibind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2403.12532.pdf">OmniBind: Teach to Build Unequal-Scale Modality Interaction for
+Omni-Bind of All</a></div>
+    <div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Dahun Kim, Lin Wang</div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/OmniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2405.16108" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR 2024</abbr>
   </div>
