@@ -37,7 +37,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2403.12532.pdf">OmniBind: Teach to Build Unequal-Scale Modality Interaction for
+    <div class="title"><a href="https://arxiv.org/pdf/2405.16108">OmniBind: Teach to Build Unequal-Scale Modality Interaction for
 Omni-Bind of All</a></div>
     <div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Dahun Kim, Lin Wang</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
@@ -77,30 +77,6 @@ Omni-Bind of All</a></div>
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR 2024 Hightlight</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
-    <div class="author">Jiazhou Zhou,  Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR), Hightlight</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-    </div>
-  </div>
-</div>
-</li>
-
-
 
 <li>
 <div class="pub-row">
@@ -125,6 +101,105 @@ Omni-Bind of All</a></div>
 </div>
 </li>
 
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR 2024 Hightlight</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
+    <div class="author">Jiazhou Zhou,  Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR), Hightlight</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/magic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a></div>
+    <div class="author">Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Jiazhou Zhou, Lin Wang</div>
+    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/any2seg.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Learning Modality-agnostic Representation for Semantic Segmentation from Any Modalities</a></div>
+    <div class="author">Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
+    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/Any2Seg/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/eventbind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a></div>
+    <div class="author">Jiazhou Zhou, Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
+    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2308.03135" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
 <li>
 <div class="pub-row">
 
@@ -135,7 +210,7 @@ Omni-Bind of All</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2309.09297">Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera</a></div>
-    <div class="author">Jiahang Cao, Xu Zheng*, <strong>Yuanhuiyi Lyu*</strong>, Jiaxu Wang, Renjing Xu, Lin Wang</div>
+    <div class="author">Jiahang Cao, Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Jiaxu Wang, Renjing Xu, Lin Wang</div>
     <div class="periodical"><em>The 2024 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em></div>
     <div class="links">
     <a href="https://vlislab22.github.io/EOLO/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
@@ -172,28 +247,6 @@ The Eleventh International Conference on Learning Representations <strong>(ICLR)
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/e-clip.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP</a></div>
-    <div class="author">Jiazhou Zhou*, Xu Zheng*, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
-    <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/ECLIP/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
@@ -216,7 +269,36 @@ The Eleventh International Conference on Learning Representations <strong>(ICLR)
   </div>
 </div>
 </li>
-  
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/eit.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual
+Recognition and More</a></div>
+    <div class="author">Xu Zheng, Ling Wang, Kanghao Chen, <strong>Yuanhuiyi Lyu</strong>, Jiazhou Zhou, Lin Wang</div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+
+
 <br>
 
 </ol>
