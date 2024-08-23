@@ -1,9 +1,9 @@
 url: "https://yuanhuiyilyu.xyz"
 baseurl: /qc-ly.github.io
 # Basic Information 
-title: Anton, Yuanhuiyi LYU
+title: Lucas Yuanhuiyi LYU
 # subtitle:
-position: RA
+position: PhD Student
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Hong Kong University of Science and Technology (HKUST)
@@ -25,7 +25,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=en
-cv_link: assets/files/cv.pdf
+# cv_link: assets/files/cv.pdf
 github_link: https://github.com/QC-LY
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang
