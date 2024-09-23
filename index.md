@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now an incoming PhD student supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Addison L. Wang</a> at VLIS LAB.
+Hi! I'm a 1st year PhD student supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Addison L. Wang</a> at VLIS LAB.
 I obtained my B.ENG in Artificial Intelligence from Northeastern University (NEU).
 My research interests include Multi-modal Learning and Generative Models.
 
