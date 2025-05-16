@@ -5,7 +5,9 @@ layout: homepage
 ## About Me
 
 Hi! I'm a 1st year PhD student at HKUST GZ.
+
 I obtained my B.ENG in Artificial Intelligence from Northeastern University (NEU).
+
 My research interests include Multi-modal Learning and Generative Models.
 
 
