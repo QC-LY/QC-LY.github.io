@@ -269,30 +269,6 @@ The Eleventh International Conference on Learning Representations <strong>(ICLR)
 </li>
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/eit.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual
-Recognition and More</a></div>
-    <div class="author">Xu Zheng, Ling Wang, Kanghao Chen, <strong>Yuanhuiyi Lyu</strong>, Jiazhou Zhou, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a> -->
-    </div>
-  </div>
-</div>
-</li>
-
-
 
 
 
