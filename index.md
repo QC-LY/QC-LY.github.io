@@ -25,8 +25,6 @@ I obtained my B.ENG in Artificial Intelligence from Northeastern University (NEU
 
 - **[Oct. 2021 ‑ Dec. 2022]**, **THUNLP**, Tsinghua University
   - Supervisor: Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu
-- **[Jun. 2021 ‑ Sep. 2021]**, **NEUNLP**, Northeastern University
-  - Supervisor: Tong Xiao
 
 
 {% include_relative _includes/services.md %}
