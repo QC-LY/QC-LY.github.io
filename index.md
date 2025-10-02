@@ -43,7 +43,7 @@ Currently, I focus on:
     <div class="edu-meta">
       <div class="edu-title"><strong>Ph.D. in Artificial Intelligence</strong></div>
       <div class="edu-school">The Hong Kong University of Science and Technology (Guangzhou)</div>
-      <div class="edu-time">2024 – Present</div>
+      <div class="edu-time"><strong>2024 – Present</strong></div>
     </div>
   </div>
   <div class="edu-item">
@@ -51,7 +51,7 @@ Currently, I focus on:
     <div class="edu-meta">
       <div class="edu-title"><strong>B.ENG in Artificial Intelligence</strong></div>
       <div class="edu-school">Northeastern University (Shenyang)</div>
-      <div class="edu-time">2019 – 2023</div>
+      <div class="edu-time"><strong>2019 – 2023</strong></div>
     </div>
   </div>
   
