@@ -9,8 +9,8 @@ I am fortunate to be advised by <a href="https://scholar.google.com/citations?us
 Previously, I obtained my B.ENG in Artificial Intelligence from Northeastern University, advised by <a href="https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en">Prof. Zhenghao Liu</a>
 
 Currently, I focus on:
+- **Multimodal Learning & Reasoning**: Multimodal alignment, Understanding-Generation interaction.
 - **Visual Generation**: Retrieval-augmented visual generation, X-to-Image generation.
-- **Unified Model**: Multimodal alignment, Understanding-Generation interaction.
 
 
 {% include_relative _includes/projects.md %}
