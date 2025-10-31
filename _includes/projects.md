@@ -10,7 +10,7 @@ Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAA
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/UiG.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Unified Model</abbr>
+    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -51,7 +51,7 @@ Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAA
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Unified Model</abbr>
+    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -93,7 +93,7 @@ Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAA
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/any2seg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Segmentation</abbr>
+    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -221,7 +221,7 @@ Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAA
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/univl-dr.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Retrieval</abbr>
+    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
