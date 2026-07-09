@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I'm <strong class="profile-name">Yuanhuiyi Lyu (吕原汇一)</strong>, a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou).
 I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=dbBKbXoAAAAJ&hl=en">Prof. Xuming Hu</a>, <a href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en">Prof. Linfeng Zhang @ SJTU</a>, and <a href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Prof. Ying-Cong Chen</a>.
-<strong>I am currently a research intern with the Kling Team at Kuaishou, where I work on multimodal generation.</strong>
+<strong>I am currently a research intern at Kling AI, Kuaishou, where I work on multimodal generation.</strong>
 
 Currently, I focus on:
 
@@ -43,17 +43,41 @@ Currently, I focus on:
 - *2020.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
 
 
-## Internships
+## Research Experiences
 
-- **[Dec. 2025 - Apr. 2026]**, **Ming Team**, Ant Group
-  - Contribute to Ming-omni model:
-    - CoT data for multimodal understanding and generation
-    - Reward model for omni-model
-    - RL for omni-model
+<div class="experience-list">
+  <article class="experience-card">
+    <div class="experience-head">
+      <div>
+        <h3>Kling AI</h3>
+        <div class="experience-org">Kuaishou</div>
+      </div>
+      <div class="experience-time">May 2026 - Present</div>
+    </div>
+    <div class="experience-role">Research Intern</div>
+    <div class="experience-work-title">Contribute to Kling model</div>
+    <ul class="experience-work">
+      <li>Multimodal generation</li>
+    </ul>
+  </article>
 
-- **[May 2026 - Present]**, **Kling Team**, Kuaishou
-  - Contribute to Kling model:
-    - Multimodal generation
+  <article class="experience-card">
+    <div class="experience-head">
+      <div>
+        <h3>Ming Team</h3>
+        <div class="experience-org">Ant Group</div>
+      </div>
+      <div class="experience-time">Dec. 2025 - Apr. 2026</div>
+    </div>
+    <div class="experience-role">Research Intern</div>
+    <div class="experience-work-title">Contribute to Ming-omni model</div>
+    <ul class="experience-work">
+      <li>CoT data for multimodal understanding and generation</li>
+      <li>Reward model for omni-model</li>
+      <li>RL for omni-model</li>
+    </ul>
+  </article>
+</div>
 
 
 ## Education
