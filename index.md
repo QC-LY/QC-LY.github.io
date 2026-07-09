@@ -92,10 +92,6 @@ Currently, I focus on:
   
 </div>
 
-
-{% include_relative _includes/services.md %}
-
-
 ## Honors and Awards
 
 - *2023.07* &emsp;**Outstanding Graduation Dissertation (<2%)**, Northeastern University.
