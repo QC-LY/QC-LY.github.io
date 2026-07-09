@@ -4,14 +4,33 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm (Ryan) Yuanhuiyi Lyu, a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou).
+Hi! I'm <strong class="profile-name">Yuanhuiyi Lyu (吕原汇一)</strong>, a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou).
 I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=dbBKbXoAAAAJ&hl=en">Prof. Xuming Hu</a>, <a href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en">Prof. Linfeng Zhang @ SJTU</a>, and <a href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Prof. Ying-Cong Chen</a>.
-<strong>I am currently a research intern at InclusionAI, Ant Group, where I work on pre-training for multimodal LLM.</strong>
+<strong>I am currently a research intern with the Kling Team at Kuaishou, where I work on multimodal generation.</strong>
 Previously, I obtained my B.ENG in Artificial Intelligence from Northeastern University, advised by <a href="https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en">Prof. Zhenghao Liu</a>
 
 Currently, I focus on:
-- **Multimodal Learning & Reasoning**: Multimodal alignment, Thinking for multimodal understanding and generation.
-- **Visual Generation**: Retrieval-augmented visual generation, X-to-Image generation.
+
+<div class="research-focus-list">
+<div class="research-focus-item">
+<strong>Thinking for Multimodal Understanding and Generation</strong>
+<ul>
+<li>CoT data for multimodal pre-training/post-training</li>
+<li>Thinking in image/video generation</li>
+<li>RL for image/video generation</li>
+</ul>
+</div>
+
+<div class="research-focus-item">
+<strong>Harness for Multimodal Generation</strong>
+<ul>
+<li>Web search/RAG for image/video generation</li>
+<li>Agentic Loop for image/video generation</li>
+</ul>
+</div>
+</div>
+
+<p class="job-market-notice"><strong>&gt;&gt;&gt; I am currently on the job market and open to research or engineering opportunities in multimodal AI. Please feel free to contact me by email.</strong></p>
 
 
 {% include_relative _includes/projects.md %}
@@ -27,14 +46,15 @@ Currently, I focus on:
 
 ## Internships
 
-- **[Dec. 2025 ‑ Present]**, **Ming Team**, InclusionAI, Ant Group
-  - Mentor: Ziyuan Huang
+- **[Dec. 2025 - Apr. 2026]**, **Ming Team**, Ant Group
+  - Contribute to Ming-omni model:
+    - CoT data for multimodal understanding and generation
+    - Reward model for omni-model
+    - RL for omni-model
 
-- **[Jul. 2023 ‑ Sep. 2024]**, **VLIS Lab**, The Hong Kong University of Science and Technology
-  - Supervisor: Lin Wang
-
-- **[Oct. 2021 ‑ Feb. 2023]**, **THUNLP Lab**, Tsinghua University
-  - Supervisor: Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu
+- **[May 2026 - Present]**, **Kling Team**, Kuaishou
+  - Contribute to Kling model:
+    - Multimodal generation
 
 
 ## Education
@@ -68,5 +88,3 @@ Currently, I focus on:
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jd8OzMhdKMK1K5bnZn9Yn3pFyeY2ahWgCA6In0frwYc&cl=ffffff&w=a"></script>
-
-

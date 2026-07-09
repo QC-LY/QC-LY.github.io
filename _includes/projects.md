@@ -1,246 +1,102 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" class="section-title">Selected Publications</h2>
 
 <div class="publications">
+<p class="publication-note">Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=en">Google Scholar</a> for a full paper list.</p>
+
+<section class="research-area">
+<div class="research-area-heading">
+<span class="research-area-index">Research Direction 1</span>
+<h3>Thinking for Multimodal Understanding and Generation</h3>
+<ul class="research-area-topics">
+<li>CoT data for multimodal pre-training/post-training</li>
+<li>Thinking in image/video generation</li>
+<li>RL for image/video generation</li>
+</ul>
+</div>
+
 <ol class="bibliography">
-
-Please refer to my <a href="https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=en">Google Scholar</a> for a full paper list.
-
 <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/UiG.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2509.18639">Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation</a></div>
-    <div class="author"><strong>Yuanhuiyi Lyu</strong>, Chi-Kit Wong, Chenfei Liao, Lutao Jiang, Xu Zheng, Zexin Lu, Linfeng Zhang, Xuming Hu</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2025.</em></div>
-    <div class="links">
-    <a href="https://github.com/QC-LY/UiG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://arxiv.org/pdf/2509.18639" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
+<article class="pub-row pub-card">
+<a class="pub-media" href="https://arxiv.org/pdf/2603.06032" target="_blank" rel="noopener">
+<img src="assets/img/struvis.png" class="teaser img-fluid z-depth-1" alt="StruVis teaser">
+<span class="pub-badge">arXiv 2026</span>
+</a>
+<div class="pub-content">
+<div class="title"><a href="https://arxiv.org/pdf/2603.06032" target="_blank" rel="noopener">StruVis: Enhancing Reasoning-based Text-to-Image Generation via Thinking with Structured Vision</a></div>
+<div class="author"><strong>Yuanhuiyi Lyu</strong>, Kaiyu Lei, Ziqiao Weng, Xu Zheng, Lutao Jiang, Teng Li, Yangfu Li, Ziyuan Huang, Linfeng Zhang, Xuming Hu</div>
+<div class="periodical"><em>arXiv, 2026.</em></div>
 </div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/realrag.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Visual Generation</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2502.00848">RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning</a></div>
-    <div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu</div>
-    <div class="periodical"><em>Forty-Second International Conference on Machine Learning<strong>(ICML)</strong>, 2025.</em></div>
-    <div class="links">
-    <a href="https://qc-ly.github.io/RealRAG-page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2502.00848" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
+</article>
 </li>
 
 <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a></div>
-    <div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Jiazhou Zhou, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
+<article class="pub-row pub-card">
+<a class="pub-media" href="https://arxiv.org/pdf/2403.12532.pdf" target="_blank" rel="noopener">
+<img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1" alt="UniBind teaser">
+<span class="pub-badge">CVPR 2024</span>
+</a>
+<div class="pub-content">
+<div class="title"><a href="https://arxiv.org/pdf/2403.12532.pdf" target="_blank" rel="noopener">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a></div>
+<div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Jiazhou Zhou, Lin Wang</div>
+<div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
 </div>
+</article>
 </li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ImgAny.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Visual Generation</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2401.17664">Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation</a></div>
-    <div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/ImageAnything" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2401.17664.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/any2seg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Learning Modality-agnostic Representation for Semantic Segmentation from Any Modalities</a></div>
-    <div class="author">Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
-    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV), <span style="color: red;">Oral</span></strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/Any2Seg/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR 2024 Hightlight</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
-    <div class="author">Jiazhou Zhou,  Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR), <span style="color: red;">Highlight</span></strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/magic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a></div>
-    <div class="author">Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Jiazhou Zhou, Lin Wang</div>
-    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/eventbind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a></div>
-    <div class="author">Jiazhou Zhou, Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Lin Wang</div>
-    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2308.03135" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/icra.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICRA 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.09297">Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera</a></div>
-    <div class="author">Jiahang Cao, Xu Zheng, <strong>Yuanhuiyi Lyu</strong>, Jiaxu Wang, Renjing Xu, Lin Wang</div>
-    <div class="periodical"><em>The 2024 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/EOLO/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2309.09297.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/componerf.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2303.13843">CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout</a></div>
-    <div class="author">Haotian Bai, <strong>Yuanhuiyi Lyu</strong>, Lutao Jiang, Si Jia Li, Haonan Lu, Xiaodong Lin, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2303.13843.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/univl-dr.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Multimodal Learning & Reasoning</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2209.00179">Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval</a></div>
-    <div class="author">Zhenghao Liu, Chenyan Xiong, <strong>Yuanhuiyi Lv</strong>, Zhiyuan Liu, Ge Yu</div>
-    <div class="periodical"><em>
-The Eleventh International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em></div>
-    <div class="links">
-    <a href="https://github.com/OpenMatch/UniVL-DR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://openreview.net/pdf?id=PQOlkgsBsik" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-
-<br>
-
 </ol>
+</section>
+
+<section class="research-area">
+<div class="research-area-heading">
+<span class="research-area-index">Research Direction 2</span>
+<h3>Harness for Multimodal Generation</h3>
+<ul class="research-area-topics">
+<li>Web search/RAG for image/video generation</li>
+<li>Agentic Loop for image/video generation</li>
+</ul>
+</div>
+
+<ol class="bibliography">
+<li>
+<article class="pub-row pub-card">
+<a class="pub-media" href="https://arxiv.org/pdf/2502.00848" target="_blank" rel="noopener">
+<img src="assets/img/realrag.png" class="teaser img-fluid z-depth-1" alt="RealRAG teaser">
+<span class="pub-badge">ICML 2025</span>
+</a>
+<div class="pub-content">
+<div class="title"><a href="https://arxiv.org/pdf/2502.00848" target="_blank" rel="noopener">RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning</a></div>
+<div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu</div>
+<div class="periodical"><em>Forty-Second International Conference on Machine Learning <strong>(ICML)</strong>, 2025.</em></div>
+</div>
+</article>
+</li>
+
+<li>
+<article class="pub-row pub-card">
+<a class="pub-media" href="https://arxiv.org/pdf/2509.18639" target="_blank" rel="noopener">
+<img src="assets/img/UiG.png" class="teaser img-fluid z-depth-1" alt="Understanding-in-Generation teaser">
+<span class="pub-badge">arXiv 2025</span>
+</a>
+<div class="pub-content">
+<div class="title"><a href="https://arxiv.org/pdf/2509.18639" target="_blank" rel="noopener">Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation</a></div>
+<div class="author"><strong>Yuanhuiyi Lyu</strong>, Chi Kit Wong, Chenfei Liao, Lutao Jiang, Xu Zheng, Zexin Lu, Linfeng Zhang, Xuming Hu</div>
+<div class="periodical"><em>arXiv, 2025.</em></div>
+</div>
+</article>
+</li>
+
+<li>
+<article class="pub-row pub-card">
+<a class="pub-media" href="https://arxiv.org/pdf/2401.17664" target="_blank" rel="noopener">
+<img src="assets/img/ImgAny.png" class="teaser img-fluid z-depth-1" alt="Image Anything teaser">
+<span class="pub-badge">arXiv 2024</span>
+</a>
+<div class="pub-content">
+<div class="title"><a href="https://arxiv.org/pdf/2401.17664" target="_blank" rel="noopener">Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation</a></div>
+<div class="author"><strong>Yuanhuiyi Lyu</strong>, Xu Zheng, Lin Wang</div>
+<div class="periodical"><em>arXiv, 2024.</em></div>
+</div>
+</article>
+</li>
+</ol>
+</section>
 </div>

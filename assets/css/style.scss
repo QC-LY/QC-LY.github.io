@@ -3,6 +3,43 @@
 
 @import "minimal-light";
 
+.profile-name {
+  color: #222;
+  font-weight: 700;
+}
+
+.research-focus-list {
+  margin: 0 0 18px;
+}
+
+.research-focus-item {
+  margin: 0 0 10px;
+}
+
+.research-focus-item strong {
+  color: #222;
+  font-weight: 700;
+}
+
+.research-focus-item ul {
+  margin: 6px 0 0 24px;
+}
+
+.research-focus-item li {
+  margin: 2px 0;
+}
+
+.job-market-notice {
+  color: #c62828;
+  font-weight: 700;
+  margin: 4px 0 22px;
+}
+
+.job-market-notice strong {
+  color: inherit;
+  font-weight: 700;
+}
+
 .edu-list {
   display: flex;
   flex-direction: column;
