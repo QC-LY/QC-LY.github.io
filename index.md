@@ -35,42 +35,30 @@ Currently, I focus on:
 {% include_relative _includes/projects.md %}
 
 
-## Honors and Awards
-
-- *2023.07* &emsp;**Outstanding Graduation Dissertation (<2%)**, Northeastern University. 
-- *2022.09* &emsp;**Outstanding Students Scholarship**, Northeastern University. 
-- *2021.09* &emsp;**Outstanding Students Scholarship**, Northeastern University. 
-- *2020.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
-
-
 ## Research Experiences
 
 <div class="experience-list">
-  <article class="experience-card">
+  <article class="experience-card experience-kling">
     <div class="experience-head">
-      <div>
-        <h3>Kling AI</h3>
-        <div class="experience-org">Kuaishou</div>
-      </div>
+      <h3>Kling AI</h3>
       <div class="experience-time">May 2026 - Present</div>
     </div>
+    <div class="experience-org">Kuaishou</div>
     <div class="experience-role">Research Intern</div>
-    <div class="experience-work-title">Contribute to Kling model</div>
+    <div class="experience-work-title">Contributions to Kling Omni Model</div>
     <ul class="experience-work">
       <li>Multimodal generation</li>
     </ul>
   </article>
 
-  <article class="experience-card">
+  <article class="experience-card experience-ming">
     <div class="experience-head">
-      <div>
-        <h3>Ming Team</h3>
-        <div class="experience-org">Ant Group</div>
-      </div>
+      <h3>Ming Team</h3>
       <div class="experience-time">Dec. 2025 - Apr. 2026</div>
     </div>
+    <div class="experience-org">Ant Group</div>
     <div class="experience-role">Research Intern</div>
-    <div class="experience-work-title">Contribute to Ming-omni model</div>
+    <div class="experience-work-title">Contributions to Ming-Flash-Omni</div>
     <ul class="experience-work">
       <li>CoT data for multimodal understanding and generation</li>
       <li>Reward model for omni-model</li>
@@ -106,6 +94,14 @@ Currently, I focus on:
 
 
 {% include_relative _includes/services.md %}
+
+
+## Honors and Awards
+
+- *2023.07* &emsp;**Outstanding Graduation Dissertation (<2%)**, Northeastern University.
+- *2022.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
+- *2021.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
+- *2020.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
 
 
 

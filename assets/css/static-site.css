@@ -607,19 +607,37 @@ footer {
   margin: 8px 0 22px; }
 
 .experience-card {
-  background: #fff;
+  --experience-accent: #007f78;
+  --experience-chip-bg: #e9f8f6;
+  --experience-chip-border: #bfebe6;
+  --experience-chip-color: #00645f;
+  background: linear-gradient(90deg, rgba(0, 127, 120, 0.055), #fff 28%);
   border: 1px solid #e7e0ee;
-  border-left: 4px solid #007f78;
+  border-left: 4px solid var(--experience-accent);
   border-radius: 8px;
   box-shadow: 0 8px 18px rgba(34, 20, 46, 0.06);
   padding: 14px 16px; }
 
+.experience-kling {
+  --experience-accent: #007f78;
+  --experience-chip-bg: #e9f8f6;
+  --experience-chip-border: #bfebe6;
+  --experience-chip-color: #00645f;
+  background: linear-gradient(90deg, rgba(0, 127, 120, 0.055), #fff 28%); }
+
+.experience-ming {
+  --experience-accent: #a96b00;
+  --experience-chip-bg: #fff4df;
+  --experience-chip-border: #f2d59e;
+  --experience-chip-color: #7a4e00;
+  background: linear-gradient(90deg, rgba(169, 107, 0, 0.075), #fff 28%); }
+
 .experience-head {
-  align-items: flex-start;
+  align-items: baseline;
   display: flex;
   gap: 16px;
   justify-content: space-between;
-  margin-bottom: 7px; }
+  margin-bottom: 2px; }
 
 .experience-card h3 {
   color: #111;
@@ -630,10 +648,10 @@ footer {
 .experience-org {
   color: #666;
   font-size: 0.94rem;
-  margin-top: 2px; }
+  margin: 0 0 8px; }
 
 .experience-time {
-  color: #007f78;
+  color: var(--experience-accent);
   flex: 0 0 auto;
   font-family: "Ubuntu Mono", monospace;
   font-size: 0.84rem;
@@ -642,10 +660,10 @@ footer {
   white-space: nowrap; }
 
 .experience-role {
-  background: #faf8fc;
-  border: 1px solid #e7e0ee;
+  background: var(--experience-chip-bg);
+  border: 1px solid var(--experience-chip-border);
   border-radius: 999px;
-  color: #330662;
+  color: var(--experience-chip-color);
   display: inline-block;
   font-family: "Ubuntu Mono", monospace;
   font-size: 0.78rem;
@@ -668,9 +686,22 @@ footer {
   margin: 2px 0; }
 
 @media (prefers-color-scheme: dark) {
+  .experience-kling {
+    --experience-accent: #66d1c7;
+    --experience-chip-bg: #31514f;
+    --experience-chip-border: #477772;
+    --experience-chip-color: #e8fffc; }
+
+  .experience-ming {
+    --experience-accent: #f0b44b;
+    --experience-chip-bg: #594325;
+    --experience-chip-border: #8c6b32;
+    --experience-chip-color: #fff2d8; }
+
   .experience-card {
     background: #484848;
     border-color: #6a5e70;
+    border-left-color: var(--experience-accent);
     box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18); }
 
   .experience-card h3,
@@ -682,12 +713,12 @@ footer {
     color: #d5cddd; }
 
   .experience-time {
-    color: #66d1c7; }
+    color: var(--experience-accent); }
 
   .experience-role {
-    background: #3f3f3f;
-    border-color: #6a5e70;
-    color: #f1edf5; } }
+    background: var(--experience-chip-bg);
+    border-color: var(--experience-chip-border);
+    color: var(--experience-chip-color); } }
 
 @media print, screen and (max-width: 640px) {
   .experience-head {
