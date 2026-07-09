@@ -53,22 +53,22 @@ blockquote {
 }
 
 .publications {
-  margin-top: 1.4rem;
+  margin-top: 0.8rem;
 }
 
 .publication-note {
   color: var(--pub-muted);
-  margin-bottom: 1.1rem;
+  margin-bottom: 0.8rem;
 }
 
 .research-area {
-  margin: 1.45rem 0 1.8rem;
+  margin: 1rem 0 1.35rem;
 }
 
 .research-area-heading {
   border-left: 4px solid var(--pub-accent);
   padding: 0.15rem 0 0.25rem 0.85rem;
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.75rem;
 }
 
 .research-area-heading h3 {
@@ -112,7 +112,7 @@ blockquote {
 }
 
 .publications ol.bibliography li {
-  margin: 0 0 0.9rem;
+  margin: 0 0 0.75rem;
 }
 
 .pub-row {
@@ -127,7 +127,7 @@ blockquote {
   box-shadow: 0 8px 20px rgba(34, 20, 46, 0.06);
   gap: 1rem;
   overflow: hidden;
-  padding: 0.7rem;
+  padding: 0.6rem;
   transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
 }
 
@@ -156,7 +156,7 @@ blockquote {
   border-radius: 6px;
   box-shadow: none;
   display: block;
-  height: 118px;
+  height: 112px;
   margin: 0;
   object-fit: cover;
   width: 100%;
@@ -293,12 +293,12 @@ screen and (max-width: 640px) {
   }
 
   .pub-card {
-    padding: 0.65rem;
+    padding: 0.6rem;
   }
 
   .pub-media {
     flex-basis: auto;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.6rem;
     min-height: 0;
     width: 100%;
   }
@@ -312,4 +312,44 @@ screen and (max-width: 640px) {
   .pub-content {
     padding: 0;
   }
+}
+
+/* Static homepage overrides: keep publication groups compact on GitHub Pages. */
+#publications {
+  margin-bottom: 0.4rem;
+}
+
+.publications > .publication-note {
+  margin: 0 0 0.7rem;
+}
+
+.publications > .research-area {
+  clear: both;
+  display: block;
+  margin: 0.9rem 0 1.2rem;
+}
+
+.publications > .research-area + .research-area {
+  margin-top: 1.1rem;
+}
+
+.publications .research-area-heading {
+  margin-bottom: 0.65rem;
+}
+
+.publications .bibliography {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.publications .bibliography > li {
+  display: block;
+  margin: 0 0 0.72rem;
+  min-height: 0;
+}
+
+.publications .pub-card {
+  align-items: stretch;
+  min-height: 0;
 }

@@ -7,7 +7,6 @@ layout: homepage
 Hi! I'm <strong class="profile-name">Yuanhuiyi Lyu (吕原汇一)</strong>, a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou).
 I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=dbBKbXoAAAAJ&hl=en">Prof. Xuming Hu</a>, <a href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en">Prof. Linfeng Zhang @ SJTU</a>, and <a href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Prof. Ying-Cong Chen</a>.
 <strong>I am currently a research intern with the Kling Team at Kuaishou, where I work on multimodal generation.</strong>
-Previously, I obtained my B.ENG in Artificial Intelligence from Northeastern University, advised by <a href="https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en">Prof. Zhenghao Liu</a>
 
 Currently, I focus on:
 
