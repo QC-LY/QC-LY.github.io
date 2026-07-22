@@ -6,7 +6,6 @@ layout: homepage
 
 Hi! I'm <strong class="profile-name">Yuanhuiyi Lyu (吕原汇一)</strong>, a Ph.D. student in Artificial Intelligence at The Hong Kong University of Science and Technology (Guangzhou).
 I am fortunate to be advised by <a href="https://scholar.google.com/citations?user=dbBKbXoAAAAJ&hl=en">Prof. Xuming Hu</a>, <a href="https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en">Prof. Linfeng Zhang @ SJTU</a>, and <a href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Prof. Ying-Cong Chen</a>.
-<strong>I am currently a research intern at Kling AI, Kuaishou, where I work on multimodal generation.</strong>
 
 Currently, I focus on:
 
@@ -41,7 +40,6 @@ Currently, I focus on:
   <article class="experience-card experience-kling">
     <div class="experience-head">
       <h3>Kling AI</h3>
-      <div class="experience-time">May 2026 - Present</div>
     </div>
     <div class="experience-org">Kuaishou</div>
     <div class="experience-role">Research Intern</div>
@@ -54,7 +52,6 @@ Currently, I focus on:
   <article class="experience-card experience-ming">
     <div class="experience-head">
       <h3>Ming Team</h3>
-      <div class="experience-time">Dec. 2025 - Apr. 2026</div>
     </div>
     <div class="experience-org">Ant Group</div>
     <div class="experience-role">Research Intern</div>
